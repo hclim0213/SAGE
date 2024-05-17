@@ -4,7 +4,7 @@ Scoring-Assisted Generative Exploration (SAGE)
 
 What is SAGE?
 ----------------
-**Scoring-Assisted Generative Exploration (SAGE)** is an effective framework for generating high-scoring molecules with deep neural networks (DNN), chemical diversification operators, and various QSAR/QSPR scoring models for desired objectives.
+**Scoring-Assisted Generative Exploration (SAGE)** is an effective framework for generating high-scoring molecules with deep neural networks, chemical diversification operators, and various QSAR/QSPR scoring models for desired objectives.
 
 # Notes
 This is additional supplementary data in "Development of Scoring-Assisted Generative Exploration (SAGE) and Its Application to Dual Inhibitor Design for Acetylcholinesterase and Monoamine Oxidase B"

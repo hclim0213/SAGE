@@ -13,7 +13,7 @@ Prerequisites
 -------------
 * LINUX/UNIX Cluster Machines (Ubuntu 20.04)
 * Python 3.7
-* conda package: -c conda-forge openbabel, swig, boost-cpp, sphinx, sphinx_rtd_theme, smina
+* conda package: openbabel, swig, boost-cpp, sphinx, sphinx_rtd_theme, smina
 * pip package: [RAscore](https://github.com/reymond-group/RAscore), numpy, scipy, scikit-learn, xgboost, nltk, networkx, pyyaml, nbformat, lightgbm, optuna, pandas, soltrannet [PyFingerprint](https://github.com/hcji/PyFingerprint) PyTDC, mordred, gensim, [mol2vec](https://github.com/samoturk/mol2vec), PubChemPy, torch, torch-geometric, torch-scatter, torch-sparse, torch-cluster, torch-spline-conv, torchvision, matplotlib, selfies, seaborn, jupyter, neptune-client, tqdm, rdkit-pypi, tensorflow, tensorflow-gpu, deepchem, meeko, vina, autograd, tensorflow_addons, tensorflow_probability, umap-learn, plotly, holoviews, Flask, Jinja2, bokeh, panel, swagger-spec-validator, guacamol, pytorch-tabnet, requests, transformers, sentencepiece, catboost
 
 Contact Person

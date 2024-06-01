@@ -28,4 +28,4 @@ funded by the Ministry of Science and ICT (RS-2023-00257288).
 
 How to Cite
 ----------
-Lim, H. "Development of Scoring-Assisted Generative Exploration (SAGE) and Its Application to Dual Inhibitor Design for Acetylcholinesterase and Monoamine Oxidase B." in Journal of Cheminformatics (Accepted)
+Lim, Hocheol. "Development of scoring-assisted generative exploration (SAGE) and its application to dual inhibitor design for acetylcholinesterase and monoamine oxidase B." Journal of Cheminformatics 16 (2024).
